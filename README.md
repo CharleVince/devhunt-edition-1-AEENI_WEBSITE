@@ -1,4 +1,5 @@
 # devhunt-edition-1-AEENI_WEBSITE
-## Nohon'ny tsy fahampian'ny fotoana nanaovana anle projet dia tsy vitanay ny nanaon'ny javaScript.
-Manaraka izany dia tsy nalefanay ihany koa ny sary satria efa kely dia kely ny Forfait teo aminay.
-Koa ialana tsiny betsaka re tompoko
+Nous avons rencotrés des petits problèmes sur le conntenus image durant la commit.
+Cette problème est causé par l'insiffisant de forfait, alors on a du d'annuler la transfert de l'image
+pour economiser les forfaits restant. 
+Nous sommes vraiment desolé pour ça, et on vous promette que cette erreur ne revient plus. Merci beaucoup.
